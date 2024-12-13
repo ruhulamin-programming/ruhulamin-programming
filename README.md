@@ -8,7 +8,7 @@ I am a full-stack developer with a passion for building robust and scalable appl
   <tr>
     <td>
       <a href="https://github.com/ruhulamin-et15/github-readme-streak-stats" title="Go to Source">
-        <img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Nasir1290&theme=react&border=61dafb&hide_border=true" alt="Nasir1290" />
+        <img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=ruhulamin-et15&theme=react&border=61dafb&hide_border=true" alt="Nasir1290" />
       </a>
     </td>
     <td>
