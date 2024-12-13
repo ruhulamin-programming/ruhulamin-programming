@@ -13,7 +13,7 @@ I am a full-stack developer with a passion for building robust and scalable appl
     </td>
     <td>
       <a href="https://github.com/ruhulamin-et15/github-readme-stats" title="Go to Source">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruhulamin-et15&theme=dark&hide_border=false" alt="Streak Stats" /><br/>
+         <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruhulamin-et15&theme=dark&hide_border=false" alt="Streak Stats" /><br/>
       </a>
     </td>
     <td>
