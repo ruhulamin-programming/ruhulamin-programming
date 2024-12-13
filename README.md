@@ -5,17 +5,9 @@ I am a full-stack developer with a passion for building robust and scalable appl
 ## 📊 GitHub Stats:
 
 <table>
-  <tr>
-    <td>    
          <img src="https://github-readme-stats.vercel.app/api?username=ruhulamin-et15&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" /><br/>
-    </td>
-    <td>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruhulamin-et15&theme=dark&hide_border=false" alt="Streak Stats" /><br/>
-    </td>
-    <td>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruhulamin-et15&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-    </td>
-  </tr>
 </table>
 <!-- <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=ruhulamin-et15&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" /><br/>
