@@ -3,6 +3,21 @@
 I am a full-stack developer with a passion for building robust and scalable applications. I enjoy working on both the front-end and back-end, creating seamless user experiences, and writing clean, efficient code.
 
 ## 📊 GitHub Stats:
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/ruhulamin-et15/github-readme-streak-stats" title="Go to Source">
+        <img align="center" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Nasir1290&theme=react&border=61dafb&hide_border=true" alt="Nasir1290" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/ruhulamin-et15/github-readme-stats" title="Go to Source">
+        <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=ruhulamin-et15&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=ruhulamin-et15&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" /><br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruhulamin-et15&theme=dark&hide_border=false" alt="Streak Stats" /><br/>
@@ -10,9 +25,6 @@ I am a full-stack developer with a passion for building robust and scalable appl
 </p>
 
 ---
-<p align="center">
-    <img src="https://visitcount.itsvg.in/api?id=ruhulamin-et15&icon=0&color=0" alt="Visit Count" />
-</p>
 
 ## 🌍 About Me
 
