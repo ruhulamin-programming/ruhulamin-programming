@@ -45,13 +45,19 @@ I am a full-stack developer with a passion for building robust and scalable appl
 
 ## 🛠️ Skills
 
-### Frontend
+### Frontend (Web Development)
 
 - JavaScript, React.js, Next.js, TypeScript, Tailwind CSS
 - State Management (Redux, Context API)
 - Responsive Web Design
 
-### Backend
+### Frontend (APP Development)
+
+- Flutter, Dart, FVM
+- State Management: GetX
+- Responsive APP Design
+
+### Backend Development
 
 - Node.js, Express.js, Next.js API
 - Database Management (PostgreSQL, MySQL, MongoDB, Redis)
