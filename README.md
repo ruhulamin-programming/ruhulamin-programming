@@ -4,6 +4,11 @@ I am a full-stack developer with a passion for building robust and scalable appl
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruhulamin-et15)](https://github.com/anuraghazra/github-readme-stats)
 
+### 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ruhulamin-et15&theme=tokyonight)](https://git.io/streak-stats)
+
+
 ## 🌍 About Me
 
 - 🌱 I’m currently learning Web Socket
