@@ -10,6 +10,7 @@ I am a full-stack developer with a passion for building robust and scalable appl
       </a>
     </td>
     <td>
+      GitHub Strike
       <a href="https://git.io/streak-stats">
         <img src="https://streak-stats.demolab.com/?user=ruhulamin-et15&theme=tokyonight" alt="GitHub Streak"/>
       </a>
