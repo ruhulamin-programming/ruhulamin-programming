@@ -9,9 +9,9 @@ I am a full-stack developer with a passion for building robust and scalable appl
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruhulamin-et15" alt="Top Languages"/>
       </a>
     </td>
-    <td>
+    <td align="center">
+      <strong>🔥 GitHub Streak</strong><br/>
       <a href="https://git.io/streak-stats">
-      GitHub Strike
         <img src="https://streak-stats.demolab.com/?user=ruhulamin-et15&theme=tokyonight" alt="GitHub Streak"/>
       </a>
     </td>
