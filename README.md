@@ -2,6 +2,7 @@
 
 I am a full-stack developer with a passion for building robust and scalable applications. I enjoy working on both the front-end and back-end, creating seamless user experiences, and writing clean, efficient code.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruhulamin-et15)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌍 About Me
 
