@@ -76,6 +76,8 @@ I am a full-stack developer with a passion for building robust and scalable appl
 <p align="left">
   <img src="https://img.shields.io/badge/VPS-0078D7?style=for-the-badge&logo=windows&logoColor=white" alt="VPS"/>
   <img src="https://img.shields.io/badge/Domain-4285F4?style=for-the-badge&logo=google-domains&logoColor=white" alt="Domain"/>
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
+  <img src="https://img.shields.io/badge/SSL-FFD700?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="SSL"/>
 </p>
 
 ### 🛠 Development Tools
