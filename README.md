@@ -23,7 +23,6 @@ I am a full-stack developer with a passion for building robust and scalable appl
 
 - 🌱 I’m currently learning Flutter Development  
 - 💼 I’m looking for opportunities to collaborate on interesting projects.  
-- 📫 How to reach me: ruhulamin.et15@gmail.com  
 
 ### 📱 Connect with me:
 <p align="left">
@@ -32,6 +31,12 @@ I am a full-stack developer with a passion for building robust and scalable appl
   </a>
   <a href="https://facebook.com/ruhulamin.fsd" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="mailto:ruhulamin.et15@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://wa.me/+8801762717397" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </p>
 
