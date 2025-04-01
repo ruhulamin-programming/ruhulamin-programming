@@ -54,19 +54,34 @@ I am a full-stack developer with a passion for building robust and scalable appl
 ### Backend
 
 - Node.js, Express.js, Next.js API
-- Database Management (MongoDB, PostgreSQL, MySql)
-- Database Interaction (Mongoose, Prisma)
-- RESTful API Development
+- Database Management (PostgreSQL, MySQL, MongoDB, Redis)
+- Database Interaction (Mongoose, Prisma ORM, GraphQL)
 - Web Socket
 
-### DevOps
+### 🚀 DevOps & Cloud Services
 
-- Cloud Services (AWS, DigitalOcean)
+#### ☁️ Cloud & Storage
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" alt="Amazon S3"/>
+</p>
 
-### Other Tools
+#### 🌐 Hosting & Deployment
+<p align="left">
+  <img src="https://img.shields.io/badge/VPS-0078D7?style=for-the-badge&logo=windows&logoColor=white" alt="VPS"/>
+  <img src="https://img.shields.io/badge/Domain-4285F4?style=for-the-badge&logo=google-domains&logoColor=white" alt="Domain"/>
+</p>
 
-- Git, GitHub
-- Postman,
+### 🛠 Development Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio"/>
+</p>
+
 
 ---
 
