@@ -2,11 +2,21 @@
 
 I am a full-stack developer with a passion for building robust and scalable applications. I enjoy working on both the front-end and back-end, creating seamless user experiences, and writing clean, efficient code.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruhulamin-et15)](https://github.com/anuraghazra/github-readme-stats)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruhulamin-et15" alt="Top Languages"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com/?user=ruhulamin-et15&theme=tokyonight" alt="GitHub Streak"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-### 🔥 GitHub Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ruhulamin-et15&theme=tokyonight)](https://git.io/streak-stats)
 
 
 ## 🌍 About Me
