@@ -13,17 +13,9 @@ I am a full-stack developer with a passion for building robust and scalable appl
         />
       </a>
     </td>
-<!--     <td>
-      <a href="https://git.io/streak-stats">
-        <img
-          src="https://streak-stats.demolab.com/?user=ruhulamin-et15&theme=tokyonight"
-          alt="GitHub Streak"
-        />
-      </a>
-    </td> -->
   </tr>
   <tr>
-    <td colspan="2" align="center">
+    <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruhulamin-et15&layout=compact&theme=tokyonight"
