@@ -21,7 +21,7 @@ I am a full-stack developer with a passion for building robust and scalable appl
 
 ### 📱 Connect with me:
 <p align="left">
-  <a href="https://linkedin.com/in/ruhulamin-et15" target="_blank">
+  <a href="https://linkedin.com/in/ruhulamin-fsd" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://facebook.com/ruhulamin.fsd" target="_blank">
