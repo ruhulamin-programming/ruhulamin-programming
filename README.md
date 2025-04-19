@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Ruhul Amin!
 
-I am a full-stack developer with a passion for building robust and scalable applications. I enjoy working on both the front-end and back-end, creating seamless user experiences, and writing clean, efficient code.
+As a Full Stack Developer at SM Technology Limited and a Computer Science & Engineering student at Northern University Bangladesh, I specialize in building robust web applications using technologies like JavaScript, TypeScript, React.js, Redux, Next.js, Node.js, Express.js, Prisma ORM, WebSocket, PostgreSQL, and MongoDB—driven by a deep passion for code and an unwavering dedication to excellence.
 
 ## 📊 *GitHub Stats & Activity*
 <p align="center">
