@@ -30,7 +30,7 @@ As a Full Stack Developer at SM Technology Limited and a Computer Science & Engi
   <a href="mailto:ruhulamin.cse56@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://wa.me/+8801762717397" target="_blank">
+  <a href="https://wa.me/+881340977500" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </p>
