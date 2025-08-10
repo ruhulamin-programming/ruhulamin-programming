@@ -21,7 +21,7 @@ As a Full Stack Developer at SM Technology Limited and a Computer Science & Engi
 
 ### 📱 Connect with me:
 <p align="left">
-  <a href="https://linkedin.com/in/ruhulamin-cse" target="_blank">
+  <a href="https://linkedin.com/in/ruhulamin-programming" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.facebook.com/ruhulamin.programming" target="_blank">
