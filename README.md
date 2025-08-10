@@ -4,11 +4,11 @@ As a Full Stack Developer at SM Technology Limited and a Computer Science & Engi
 
 ## 📊 *GitHub Stats & Activity*
 <p align="center">
-  <a href="https://github.com/ruhulamin-cse">
+  <a href="https://github.com/ruhulamin-programming">
     <img src="https://github-readme-stats.vercel.app/api?username=ruhulamin-cse&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruhulamin-cse&layout=compact&theme=tokyonight" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruhulamin-programming&layout=compact&theme=tokyonight" alt="Top Languages" />
   </a>
 </p>
 
