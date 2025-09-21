@@ -16,7 +16,7 @@ As a Full Stack Developer at SM Technology Limited and a Computer Science & Engi
 
 ## 🌍 About Me
 
-- 🌱 I’m currently learning Flutter Development  
+- 🌱 I’m currently learning SQL
 - 💼 I’m looking for opportunities to collaborate on interesting projects.  
 
 ### 📱 Connect with me:
