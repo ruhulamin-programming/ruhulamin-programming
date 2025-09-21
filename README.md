@@ -46,12 +46,6 @@ As a Full Stack Developer at SM Technology Limited and a Computer Science & Engi
 - State Management (Redux, Context API)
 - Responsive Web Design
 
-### Frontend (APP Development)
-
-- Flutter, Dart, FVM
-- State Management: GetX
-- Responsive APP Design
-
 ### Backend Development
 
 - Node.js, Express.js, Next.js API
