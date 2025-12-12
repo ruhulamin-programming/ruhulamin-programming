@@ -2,21 +2,9 @@
 
 As a Full Stack Developer at SM Technology Limited and a Computer Science & Engineering student at Northern University Bangladesh, I specialize in building robust web applications using technologies like JavaScript, TypeScript, React.js, Redux, Next.js, Node.js, Express.js, Prisma ORM, WebSocket, PostgreSQL, and MongoDB—driven by a deep passion for code and an unwavering dedication to excellence.
 
-## 📊 *GitHub Stats & Activity*
-<p align="center">
-  <a href="https://github.com/ruhulamin-programming">
-    <img src="https://github-readme-stats.vercel.app/api?username=ruhulamin-programming&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruhulamin-programming&layout=compact&theme=tokyonight" alt="Top Languages" />
-  </a>
-</p>
-
-
-
 ## 🌍 About Me
 
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning SQL Database
 - 💼 I’m looking for opportunities to collaborate on interesting projects.  
 
 ### 📱 Connect with me:
@@ -49,7 +37,7 @@ As a Full Stack Developer at SM Technology Limited and a Computer Science & Engi
 ### Backend Development
 
 - Node.js, Express.js, Next.js API
-- Database Management (PostgreSQL, MySQL, MongoDB, Redis)
+- Database Management (PostgreSQL, MongoDB, Redis)
 - Database Interaction (Mongoose, Prisma ORM, GraphQL)
 - Web Socket
 
