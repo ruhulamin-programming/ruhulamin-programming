@@ -28,7 +28,7 @@ As a Full Stack Developer at SM Technology Limited and a Computer Science & Engi
 
 ## 🛠️ Skills
 
-### Frontend (Web Development)
+### Frontend Development
 
 - JavaScript, React.js, Next.js, TypeScript, Tailwind CSS
 - State Management (Redux, Context API)
@@ -38,7 +38,7 @@ As a Full Stack Developer at SM Technology Limited and a Computer Science & Engi
 
 - Node.js, Express.js, Next.js API
 - Database Management (PostgreSQL, MongoDB, Redis)
-- Database Interaction (Mongoose, Prisma ORM, GraphQL)
+- Database Interaction (Mongoose, Prisma ORM)
 - Web Socket
 
 ### 🚀 DevOps & Cloud Services
