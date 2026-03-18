@@ -67,6 +67,18 @@ As a Full Stack Developer at SM Technology Limited and a Computer Science & Engi
   <img src="https://img.shields.io/badge/NeoVim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="NeoVim"/>
 </p>
 
+## 📊 GitHub Stats
+
+<div align="">
+  <img src="https://github-readme-stats.vercel.app/api?username=ruhulamin-programming&show_icons=true&theme=tokyonight&hide_border=true" alt="Neela's GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruhulamin-programming&layout=compact&theme=radical&hide_border=true" alt="Neela's Top Languages" height="180px"/>
+</div>
+<br/>
+
+<div align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruhulamin-programming&theme=tokyonight" height="200px"/>
+</div>
+
 
 ---
 
