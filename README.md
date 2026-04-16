@@ -1,6 +1,6 @@
 # Hi, I’m Ruhul Amin
 
-Mid-level Full Stack Developer at **SM Technology Limited** and a **Computer Science & Engineering** student at **Northern University Bangladesh**. I build scalable, user-focused web applications end-to-end—from responsive frontend experiences to secure APIs and reliable production deployments.
+Full Stack Developer at **SM Technology Limited** and a **Computer Science & Engineering** student at **Northern University Bangladesh**. I build scalable, user-focused web applications end-to-end—from responsive frontend experiences to secure APIs and reliable production deployments.
 
 ---
 
