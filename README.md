@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://res.cloudinary.com/dxxt2pgz7/image/upload/v1777648289/full_stack_developer_cover_photo_linkedin_wwein2.png" alt="Ruhul Amin Banner" />
+</p>
+
 # Hi, I’m Ruhul Amin
 
 Full Stack Developer at **SM Technology Limited** and a **Computer Science & Engineering** student at **Northern University Bangladesh**. I build scalable, user-focused web applications end-to-end—from responsive frontend experiences to secure APIs and reliable production deployments.
