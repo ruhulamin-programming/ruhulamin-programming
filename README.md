@@ -79,13 +79,6 @@ Full Stack Developer at **SM Technology Limited** and a **Computer Science & Eng
 
 ## GitHub Stats
 
-<div align="">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruhulamin-programming&show_icons=true&theme=tokyonight&hide_border=true" alt="Ruhul Amin's GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruhulamin-programming&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180px"/>
-</div>
-
-<br/>
-
 <div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruhulamin-programming&theme=tokyonight" height="200px"/>
 </div>
