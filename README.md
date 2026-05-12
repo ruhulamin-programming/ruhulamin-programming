@@ -4,7 +4,7 @@
 
 # Hi, I’m Ruhul Amin
 
-Full Stack Software Engineer at **Easy Softs** and a **Computer Science & Engineering** student at **Northern University Bangladesh**. I build scalable, user-focused web applications end-to-end—from responsive frontend experiences to secure APIs and reliable production deployments.
+Software Engineer at **Easy Softs** and a **Computer Science & Engineering** student at **Northern University Bangladesh**. I build scalable, user-focused web applications end-to-end—from responsive frontend experiences to secure APIs and reliable production deployments.
 
 ---
 
