@@ -24,13 +24,13 @@ Software Engineer at **Easy Fashion Limited** and a **Computer Science & Enginee
   <a href="https://linkedin.com/in/ruhulamin-programming" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.facebook.com/ruhulamin.programming" target="_blank">
+  <a href="https://www.facebook.com/ruhulamin.soft" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="mailto:ruhulamin.cse56@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://wa.me/8801340977500" target="_blank">
+  <a href="https://wa.me/8801762717397" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
